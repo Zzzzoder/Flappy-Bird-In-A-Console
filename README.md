@@ -1,7 +1,8 @@
 # Flappy-Bird-In-A-Console
 I challenged myself to make Flappy Bird in a standard Windows console.
 
-**I also made the videos showing the process:** https://www.youtube.com/playlist?list=PL5rCbpC0Inbm9qH82ehCdHRW5zA5CMGQ9
+**I also made the video series showing the process:**
+https://www.youtube.com/playlist?list=PL5rCbpC0Inbm9qH82ehCdHRW5zA5CMGQ9
 
 ## Controls:
 **Enter** -> Restart game
